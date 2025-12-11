@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @CarlosAntonioVP
-- 👀 I’m currently working on PCI Energy Solutions 
-- 🌱 I’m currently learning AWS Cloud Solutions
-- 📫 How to reach me: /carlosantoniovp (LinkedIn) and @antonio.vp13 (Instagram)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My name, Carlos Vilchez, is famous in my country (is a comedian name)
+
